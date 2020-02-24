@@ -1,0 +1,9 @@
+C:\Users\DINA\source\repos\EcuacionCuadratica\EcuacionCuadratica\bin\Debug\EcuacionCuadratica.exe.config
+C:\Users\DINA\source\repos\EcuacionCuadratica\EcuacionCuadratica\bin\Debug\EcuacionCuadratica.exe
+C:\Users\DINA\source\repos\EcuacionCuadratica\EcuacionCuadratica\bin\Debug\EcuacionCuadratica.pdb
+C:\Users\DINA\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\EcuacionCuadratica.csprojAssemblyReference.cache
+C:\Users\DINA\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\EcuacionCuadratica.Form1.resources
+C:\Users\DINA\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\EcuacionCuadratica.Properties.Resources.resources
+C:\Users\DINA\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\EcuacionCuadratica.csproj.GenerateResource.cache
+C:\Users\DINA\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\EcuacionCuadratica.exe
+C:\Users\DINA\source\repos\EcuacionCuadratica\EcuacionCuadratica\obj\Debug\EcuacionCuadratica.pdb
